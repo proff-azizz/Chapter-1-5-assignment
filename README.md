@@ -1,1 +1,2 @@
-This Folder Repo consists my class assignment 
+This repo consists of my assignments from chapter 1 - 5 
+
