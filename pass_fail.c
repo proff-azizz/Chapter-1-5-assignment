@@ -5,7 +5,7 @@ int main()
     int marks;
     printf("Enter the marks you obtained : ");
     scanf("%d", &marks);
-    if (marks > 80)
+    if (marks > 80 && marks <= 100)
     {
         printf("Congratulations !!!\nYou got Distinction");
     }
